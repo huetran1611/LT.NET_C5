@@ -1,0 +1,13 @@
+D:\#\Chuong5\Chuong5\bin\Debug\Chuong5.exe.config
+D:\#\Chuong5\Chuong5\bin\Debug\Chuong5.exe
+D:\#\Chuong5\Chuong5\bin\Debug\Chuong5.pdb
+D:\#\Chuong5\Chuong5\obj\Debug\Chuong5.csproj.AssemblyReference.cache
+D:\#\Chuong5\Chuong5\obj\Debug\Chuong5.csproj.SuggestedBindingRedirects.cache
+D:\#\Chuong5\Chuong5\obj\Debug\Chuong5.Properties.Resources.resources
+D:\#\Chuong5\Chuong5\obj\Debug\Chuong5.csproj.GenerateResource.cache
+D:\#\Chuong5\Chuong5\obj\Debug\Chuong5.csproj.CoreCompileInputs.cache
+D:\#\Chuong5\Chuong5\obj\Debug\Chuong5.exe
+D:\#\Chuong5\Chuong5\obj\Debug\Chuong5.pdb
+D:\#\Chuong5\Chuong5\obj\Debug\Chuong5.frmChatLieu.resources
+D:\#\Chuong5\Chuong5\obj\Debug\Chuong5.frmMain.resources
+D:\#\Chuong5\Chuong5\obj\Debug\Chuong5.frmDMNhanVien.resources
